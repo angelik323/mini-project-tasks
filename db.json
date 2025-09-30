@@ -1,6 +1,19 @@
 {
   "tasks": [
-    { "id": 1, "title": "Entrenar Vue 3", "completed": false },
-    { "id": 2, "title": "Practicar Pinia", "completed": true }
+    {
+      "id": "1",
+      "title": "Entrenar Vue 3",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Practicar Pinia",
+      "completed": true
+    },
+    {
+      "id": "dd97",
+      "title": "ddd",
+      "completed": false
+    }
   ]
 }
